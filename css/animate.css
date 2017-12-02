@@ -7,6 +7,11 @@ Licensed under the MIT license - http://opensource.org/licenses/MIT
 Copyright (c) 2014 Daniel Eden
 */
 
+/*! PAGINATION CSS TO CENTRE*/
+.pagecenter {
+	margin: auto;
+}
+
 .not-animated { opacity: 0; }
 
 .animated {
